@@ -1,0 +1,12 @@
+{
+  "name": "angular",
+  "version": "1.5.5",
+  "license": "MIT",
+  "main": "./angular.js",
+  "ignore": [],
+  "dependencies": {},
+  "_source": "art://angular/bower-angular",
+  "_target": "~1.5.0",
+  "_release": "v1.5.5",
+  "_originalSource": "angular"
+}

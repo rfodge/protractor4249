@@ -1,0 +1,14 @@
+{
+  "name": "angular-mocks",
+  "version": "1.5.5",
+  "license": "MIT",
+  "main": "./angular-mocks.js",
+  "ignore": [],
+  "dependencies": {
+    "angular": "1.5.5"
+  },
+  "_source": "art://angular/bower-angular-mocks",
+  "_target": "~1.5.0",
+  "_release": "v1.5.5",
+  "_originalSource": "angular-mocks"
+}
